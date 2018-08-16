@@ -1,1 +1,1 @@
-This is a mock UI built in React to display JSON data for Elastic Clusters.
+This is a mock UI built in React to display JSON data for Elastic Clusters. I am relatively new to React so this project is very simple. In the future, as I become more comfortable with the framework, I would like to display data for only one cluster at a time, then have arrows or buttons that will allow user to click forward/reverse through all of the data.
